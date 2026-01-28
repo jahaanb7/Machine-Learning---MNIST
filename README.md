@@ -1,2 +1,3 @@
 # Machine-Learning  MNIST
-Making a nueral network Machine Learning model to predict handwritten digits from the MNIST Dataset from scratch without any external libraries
+ 
+A Neural Network for predicting handwritten digits from MNIST dataset from scratch without any use of external libraries.
